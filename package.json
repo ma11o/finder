@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ansi-escapes": "^3.1.0",
     "color": "^3.1.0",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "keypress": "^0.2.1"
   }
 }
